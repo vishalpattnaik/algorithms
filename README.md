@@ -1,2 +1,2 @@
-# algorithms
-a repo for algorithms
+# Algorithms
+A repo for different algorithms 
